@@ -1,9 +1,9 @@
 export const authData = {
-  loginPlaceholder: 'Введите логин',
+  loginPlaceholder: 'اطلاعات حسابتان را وارد کنید',
   loginPattern: '^([\\w\\W]{8,30})$',
-  passPlaceholder: 'Введите пароль',
+  passPlaceholder: 'رمز عبورتان را وارد کنید',
   passPattern: '^([\\w\\W]{8,30})$',
-  button: 'Войти',
-  subbutton: 'Нет аккаунта?',
-  link: 'Зарегистрироваться',
+  button: 'وارد شدن',
+  subbutton: 'حساب ندارید؟',
+  link: 'اکنون ثبت نام کنید',
 };
