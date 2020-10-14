@@ -1,7 +1,7 @@
 export const chatFormData = {
-  legend: 'Создать чат',
-  placeholder: 'Введите название чата',
+  legend: 'ایجاد چت',
+  placeholder: 'نام گپ را وارد کنید',
   pattern: '^([\\w\\W]{8,30})$',
-  button: 'Создать чат',
-  link: 'Назад к чатам',
+  button: 'ایجاد چت',
+  link: 'بازگشت به چت ها',
 };
