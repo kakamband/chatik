@@ -3,7 +3,7 @@ export const messageOutTemplate = `<div class="messages-container__group message
                 <img
                   class="messages-container__image"
                   src="{{avatar}}"
-                  alt="Игорь"
+                  alt="ایگور"
                 />
                 <div class="messages-container__status"></div>
               </div>
