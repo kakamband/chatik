@@ -1,7 +1,7 @@
 export const pass = `
 <form class="form form_pass" name="pass" id="pass" novalidate="">
    <fieldset class="form__fieldset" name="fieldset">
-    <legend class="form__legend">Смена пароля</legend>
+    <legend class="form__legend">رمز عبور را تغییر دهید</legend>
     <div class="form__container">
         <input type="password" name="oldPassword" class="input form__input form__input_pass" id="old-password" placeholder="{{oldPassword}}" pattern="{{passPattern}}" required>
         <p class="error error_type_password" id="oldPassword"></p>
