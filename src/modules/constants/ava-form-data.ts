@@ -1,4 +1,4 @@
 export const avaFormData = {
-  button: 'Обновить',
-  link: 'Назад к чатам',
+  button: 'تازه کردن',
+  link: 'بازگشت به چت ها',
 };
