@@ -1,4 +1,4 @@
 export const chatUsersFormData = {
-  button: 'Добавить',
-  link: 'Назад к чатам',
+  button: 'اضافه کردن به',
+  link: 'بازگشت به چت ها',
 };
