@@ -1,7 +1,7 @@
 export const passData = {
-  oldPassword: 'Введите старый пароль',
-  newPassword: 'Введите новый пароль',
+  oldPassword: 'رمز ورود قدیمی خود را وارد کنید',
+  newPassword: 'یک رمز عبور جدید وارد کنید',
   passPattern: '^([\\w\\W]{8,30})$',
-  button: 'Изменить пароль',
-  link: 'Назад к чатам',
+  button: 'رمز عبور را تغییر دهید',
+  link: 'بازگشت به چت ها',
 };
