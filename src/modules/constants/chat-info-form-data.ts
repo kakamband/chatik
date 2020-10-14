@@ -1,5 +1,5 @@
 export const chatInfoFormData = {
-  button: 'Обновить',
-  legend: 'Обновить аватар чата',
-  link: 'Назад к чатам',
+  button: 'تازه کردن',
+  legend: 'آواتار گپ را به روز کنید',
+  link: 'بازگشت به چت ها',
 };
