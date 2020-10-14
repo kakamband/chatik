@@ -3,7 +3,7 @@ export const chatBottomTemplate = `<form id="message" class="form form_chat chat
             type="text"
             name="text"
             class="form__input form__input_chat chat-bottom-interface__input"
-            placeholder="Написать сообщение..."
+            placeholder="برای نوشتن پیام ..."
             minlength="1"
             maxlength="499"
             required
