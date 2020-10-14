@@ -1,7 +1,7 @@
 export const avaForm = `
 <form class="form form_ava" name="ava" id="myAvatarForm" novalidate="">
    <fieldset class="form__fieldset" name="fieldset">
-      <legend class="form__legend">Обновить аватар</legend>
+      <legend class="form__legend">آواتار را به روز کنید</legend>
       <div class="form__container">
          <input id="avatar" type="file" name="avatar" class="input form__input form__input_auth" accept="image/*" required>
          <p class="error error_type_ava-file" id="avaFile"></p>
