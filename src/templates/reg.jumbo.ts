@@ -1,7 +1,7 @@
 export const reg = `
 <form class="form form_reg" name="reg" id="reg" novalidate>
     <fieldset class="form__fieldset" name="fieldset">
-      <legend class="form__legend">Регистрация</legend>
+      <legend class="form__legend">ثبت</legend>
     </fieldset>
     <div class="form__container">
       <input type="text" name="first_name" class="input form__input form__input_reg" id="registration-first-name" placeholder="{{firstNamePlaceholder}}" pattern="{{secondNamePattern}}" required>
